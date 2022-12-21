@@ -1,0 +1,5 @@
+/.eslintrc.json
+/.vscode
+/.vscodeignore
+/CHANGELOG.md
+/node_modules
